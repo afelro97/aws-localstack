@@ -2,3 +2,7 @@
 node_modules/
 
 volume/cache/
+
+docker-compose.yml
+
+Dockerfile
