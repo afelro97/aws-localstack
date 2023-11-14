@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cdk.ts",
+  "dependencies": {
+    "@aws-cdk/aws-apigateway": "^1.204.0",
+    "@aws-cdk/aws-cognito": "^1.204.0",
+    "@aws-cdk/aws-ec2": "^1.204.0",
+    "@aws-cdk/aws-lambda": "^1.204.0",
+    "@aws-cdk/aws-rds": "^1.204.0",
+    "@aws-cdk/aws-route53": "^1.204.0",
+    "@aws-cdk/aws-route53-targets": "^1.204.0",
+    "@aws-cdk/aws-s3": "^1.204.0",
+    "@aws-cdk/aws-wafv2": "^1.204.0",
+    "@aws-cdk/core": "^1.204.0",
+    "dir": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
